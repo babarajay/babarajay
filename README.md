@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Ajay Babar
 
 # 💫 About Me:
-I'm software engineer and interested in building software solutions that makes life easy<br>Send me an email if you want to hire me for any freelance work<br>Feel free to connect with me on LinkedIn OR Shoot me an email<br>Funfact - I drink lot of tea while working
+I'm software engineer and interested in building software solutions that makes life easy<br><br>Send me an email if you want to hire me for any freelance work<br><br>Ask me anything - feel free to connect with me on LinkedIn OR Shoot me an email<br><br>Funfact - I drink lot of tea while working
 
 
 ## 🌐 Socials:
